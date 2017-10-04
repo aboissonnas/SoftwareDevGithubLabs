@@ -6,7 +6,9 @@ void power(int base, int exp);
 
 int main()
 {
-	
+	power(2, 4);
+	power(3, 32);
+	power(6, 2);
 
 	return 0;
 }
